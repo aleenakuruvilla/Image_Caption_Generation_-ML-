@@ -1,0 +1,4 @@
+# Ignore large files
+*.h5
+*.pkl
+caption.txt
